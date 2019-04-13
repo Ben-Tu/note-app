@@ -1,0 +1,24 @@
+{
+  "name": "angular-7",
+  "version": "1.0.0",
+  "description": "mean stack app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parse": "*",
+    "bootstrap": "^4.3.1",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "rxjs": "^6.4.0"
+  },
+  "author": "ben tubul",
+  "license": "ISC"
+}
